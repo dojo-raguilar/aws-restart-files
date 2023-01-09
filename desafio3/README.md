@@ -9,7 +9,7 @@
 
 2. Crea otro módulo llamado main.py que importe el módulo calculadora.
 
-3. En el módulo main.pde al usuario que ingrese dos números y una operación a realizar (suma, resta, multiplicación o división).
+3. En el módulo main.py solicite al usuario que ingrese dos números y una operación a realizar (suma, resta, multiplicación o división).
 
 4. Utiliza las funciones del módulo calculadora para realizar la operación solicitada y muestra el resultado en pantalla.
 
