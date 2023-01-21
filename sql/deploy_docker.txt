@@ -1,0 +1,17 @@
+
+  Install Docker Desktop
+  https://www.docker.com/products/docker-desktop/
+
+  Mysql DOCKER OFFICIAL IMAGE
+	https://hub.docker.com/_/mysql
+
+	# docker pull mysql
+	
+  # docker run --name mysql_restart -e MYSQL_ROOT_PASSWORD=lab-password -d mysql
+  # docker run --name mysql_restart -v /Users/raggon/Downloads/sql:/mnt/sql  -e MYSQL_ROOT_PASSWORD=lab-password -d mysql
+	
+  # docker exec -it mysql_restart bash
+	
+  # docker rm -f <ID_CONTAINER) (By example: 8001c0edb08a)
+	# docker rm -f $(docker ps -qa) (Delete all container instances)
+  
