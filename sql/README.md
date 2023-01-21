@@ -2,7 +2,7 @@
 
 ### Dada la siguiente base de datos:
 
-Producto (idProducto, nombre, descrip, estado, idProveedor)
+- Producto (idProducto, nombre, descrip, estado, idProveedor)
 Proveedor (idProveedor, nombre, respdCivil, cuit)
 Dirección ( idDir, idPers, calle, nro, piso, dpto )
 Cliente (idCliente, nombre, respIVA, CUIL)
