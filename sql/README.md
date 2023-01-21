@@ -12,6 +12,8 @@
 
 ### NOTA: El precio unitario es necesario para almacenar los valores al momento de la venta
 
+- Cree una consulta para obtener la siguiente información desde la BD.
+
 1. Indique la cantidad de productos que tiene la empresa.
 2. Indique la cantidad de productos en estado 'en stock' que tiene la empresa.
 3. Indique los productos que nunca fueron vendidos.
