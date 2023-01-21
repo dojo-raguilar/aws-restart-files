@@ -2,16 +2,16 @@
 
 ### Dada la siguiente base de datos:
 
-# Producto (idProducto, nombre, descrip, estado, idProveedor )
-# Proveedor (idProveedor, nombre, respdCivil, cuit)
-# Dirección ( idDir, idPers, calle, nro, piso, dpto )
-# Cliente (idCliente, nombre, respIVA, CUIL)
-# Vendedor (idEmpleado, nombre, apellido, DNI)
-# Venta (nroFactura, idCliente, fecha, idVendedor )
-# Detalle_venta(nroFactura,nro,idProducto, cantidad,
+#### Producto (idProducto, nombre, descrip, estado, idProveedor )
+#### Proveedor (idProveedor, nombre, respdCivil, cuit)
+#### Dirección ( idDir, idPers, calle, nro, piso, dpto )
+#### Cliente (idCliente, nombre, respIVA, CUIL)
+#### Vendedor (idEmpleado, nombre, apellido, DNI)
+#### Venta (nroFactura, idCliente, fecha, idVendedor )
+#### Detalle_venta(nroFactura,nro,idProducto, cantidad,
 precioUnitario)
 
-# NOTA: El precio unitario es necesario para almacenar los valores al momento de la venta
+### NOTA: El precio unitario es necesario para almacenar los valores al momento de la venta
 
 1. Indique la cantidad de productos que tiene la empresa.
 2. Indique la cantidad de productos en estado 'en stock' que tiene la empresa.
