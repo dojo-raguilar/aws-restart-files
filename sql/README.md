@@ -8,8 +8,7 @@
 #### Cliente (idCliente, nombre, respIVA, CUIL)
 #### Vendedor (idEmpleado, nombre, apellido, DNI)
 #### Venta (nroFactura, idCliente, fecha, idVendedor )
-#### Detalle_venta(nroFactura,nro,idProducto, cantidad,
-precioUnitario)
+#### Detalle_venta(nroFactura,nro,idProducto, cantidad,precioUnitario)
 
 ### NOTA: El precio unitario es necesario para almacenar los valores al momento de la venta
 
